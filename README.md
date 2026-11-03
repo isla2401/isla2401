@@ -3,8 +3,8 @@
 Jag heter Isac Larsson och läser webbutvecklingsprogrammet på Mittuniversitetet.
 
 ### Pågående kurser
-- DT200G Grafisk teknik för webb
-- DT068G Webbanvändbarhet
+- DT200G - Grafisk teknik för webb
+- DT068G - Webbanvändbarhet
 
 ### Avslutade kurser
 - DT224G - Introduktion till webbutveckling med HTML, CSS och JavaScript
